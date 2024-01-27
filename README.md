@@ -1,7 +1,8 @@
 - Make Sure U Have 3.10+ Pyton Install 
 - Need Help Dm Me Tim
 - Discord Soon
-- Foto [image](https://github.com/fanxx04/fanxx04/assets/157920223/2d8d52f2-a7b0-4597-a890-d4792b0aaa50)
+- Foto ![image](https://github.com/fanxx04/fanxx04/assets/157920223/2530e9fb-826d-4712-a4d1-e47761d8d28d)
+
 
 Featurs 
 Make Nitro Codes
